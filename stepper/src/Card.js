@@ -65,7 +65,7 @@ export default function RecipeReviewCard() {
       />
       <CardMedia
         className={classes.media}
-        image="/static/images/cards/paella.jpg"
+        image="https://maisoncupcake.com/mcc/wp-content/uploads/2017/03/Paella-Iceland-Frozen-Fish-6.jpg"
         title="Paella dish"
       />
       <CardContent>
