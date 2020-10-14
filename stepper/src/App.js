@@ -1,13 +1,16 @@
 import React from 'react';
-import HorizontalLabelPositionBelowStepper from './Step';
-import StickyFooter from './footer';
+import VerticalLinearStepper from './VerticalStepper';
+import HorizontalLabelPositionBelowStepper from './HorizontalStepper';
 
 
 function App() {
   return (
     <div >
-      <HorizontalLabelPositionBelowStepper/>
-      <StickyFooter/>
+      
+      <VerticalLinearStepper />
+      
+      
+      
 
     </div>
   );
